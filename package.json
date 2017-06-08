@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Self made Calculator Web App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyansh26/Calculator_WebApp.git"
+  },
+  "author": "Shreyansh Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shreyansh26/Calculator_WebApp/issues"
+  },
+  "homepage": "https://github.com/shreyansh26/Calculator_WebApp#readme"
+}
